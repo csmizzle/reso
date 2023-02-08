@@ -280,8 +280,8 @@ ofac_id,uk_id,explanation
 11977,8709,ofac_id: 11977 has a jaccard distance of 0.0 with uk_id: 8709 from the name column
 12022,11096,ofac_id: 12022 has a jaccard distance of 0.0 with uk_id: 11096 from the name column
 12030,11209,ofac_id: 12030 has a jaccard distance of 0.05882352941176472 with uk_id: 11209 from the name column
-12057,11784,ofac_id: 12057 has a jaccard distance of 0.0 with uk_id: 11784 from the name column
 12057,11234,ofac_id: 12057 has a jaccard distance of 0.0 with uk_id: 11234 from the name column
+12057,11784,ofac_id: 12057 has a jaccard distance of 0.0 with uk_id: 11784 from the name column
 12057,10439,ofac_id: 12057 has a jaccard distance of 0.0 with uk_id: 10439 from the name column
 12059,11242,ofac_id: 12059 has a jaccard distance of 0.11764705882352944 with uk_id: 11242 from the name column
 12060,10647,ofac_id: 12060 has a jaccard distance of 0.0 with uk_id: 10647 from the name column
@@ -415,7 +415,6 @@ ofac_id,uk_id,explanation
 15630,12830,ofac_id: 15630 has a jaccard distance of 0.0 with uk_id: 12830 from the name column
 15638,12840,ofac_id: 15638 has a jaccard distance of 0.18604651162790697 with uk_id: 12840 from the name column
 15648,12492,ofac_id: 15648 has a jaccard distance of 0.050000000000000044 with uk_id: 12492 from the name column
-15651,11130,ofac_id: 15651 has a jaccard distance of 0.21212121212121215 with uk_id: 11130 from the name column
 15657,12846,ofac_id: 15657 has a jaccard distance of 0.16666666666666663 with uk_id: 12846 from the name column
 15666,12847,ofac_id: 15666 has a jaccard distance of 0.032258064516129004 with uk_id: 12847 from the name column
 15717,12839,ofac_id: 15717 has a jaccard distance of 0.08333333333333337 with uk_id: 12839 from the name column
@@ -755,6 +754,7 @@ ofac_id,uk_id,explanation
 28353,13807,ofac_id: 28353 has a jaccard distance of 0.040000000000000036 with uk_id: 13807 from the name column
 28354,13808,ofac_id: 28354 has a jaccard distance of 0.038461538461538436 with uk_id: 13808 from the name column
 28564,14052,ofac_id: 28564 has a jaccard distance of 0.0 with uk_id: 14052 from the name column
+28572,12051,ofac_id: 28572 has a jaccard distance of 0.2142857142857143 with uk_id: 12051 from the name column
 28653,12211,ofac_id: 28653 has a jaccard distance of 0.2222222222222222 with uk_id: 12211 from the name column
 28717,13840,ofac_id: 28717 has a jaccard distance of 0.0 with uk_id: 13840 from the name column
 29026,13760,ofac_id: 29026 has a jaccard distance of 0.0 with uk_id: 13760 from the name column
@@ -778,8 +778,8 @@ ofac_id,uk_id,explanation
 31123,13970,ofac_id: 31123 has a jaccard distance of 0.0 with uk_id: 13970 from the name column
 31124,13974,ofac_id: 31124 has a jaccard distance of 0.0 with uk_id: 13974 from the name column
 31125,13973,ofac_id: 31125 has a jaccard distance of 0.0 with uk_id: 13973 from the name column
-31126,13037,ofac_id: 31126 has a jaccard distance of 0.0 with uk_id: 13037 from the name column
 31126,13972,ofac_id: 31126 has a jaccard distance of 0.0 with uk_id: 13972 from the name column
+31126,13037,ofac_id: 31126 has a jaccard distance of 0.0 with uk_id: 13037 from the name column
 31129,14056,ofac_id: 31129 has a jaccard distance of 0.0 with uk_id: 14056 from the name column
 31131,14058,ofac_id: 31131 has a jaccard distance of 0.0 with uk_id: 14058 from the name column
 31133,14059,ofac_id: 31133 has a jaccard distance of 0.0 with uk_id: 14059 from the name column

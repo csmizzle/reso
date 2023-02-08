@@ -8,7 +8,7 @@ Fuzz together OFAC and GBR datasets
 """
 
 import pyspark.pandas as ps
-from pyspark.sql import Row
+from pyspark.sql import Row, SparkSession
 from pyspark.ml import Pipeline
 from pyspark.ml.feature import (
     StopWordsRemover,
@@ -25,6 +25,9 @@ import os
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+spark = SparkSession.builder.master("local[*]")\
+        .appName("fuzzer")\
+        .getOrCreate()
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
 
 
