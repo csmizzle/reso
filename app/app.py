@@ -25,9 +25,7 @@ import os
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-spark = SparkSession.builder.master("local[*]")\
-        .appName("fuzzer")\
-        .getOrCreate()
+
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
 
 
